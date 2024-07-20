@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shashank Shrivastava</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
-<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/35a0078f-d256-4549-a9eb-84f6b0c37099)
-">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 
 - 🔭 I’m currently working on [Netflix GPT](https://netflix-gpt-bqao.vercel.app/)
 
