@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shashank Shrivastava</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
-
-- 🔭 I’m currently working on [Netflix GPT](https://netflix-gpt-bqao.vercel.app/)
 - <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-
 - 👨‍💻 All of my projects are available at [https://resume-main-kappa.vercel.app/](https://resume-main-kappa.vercel.app/)
 
 - 💬 Ask me about **React,React Native , NodeJs , Express , Redux**
